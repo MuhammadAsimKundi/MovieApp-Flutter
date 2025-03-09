@@ -35,7 +35,7 @@ The **Movie App** is a Flutter-based mobile application designed for browsing an
    ```
 
 ## Screenshots
-(Include screenshots of the main page, movie details page, and favorites page here.)
+(Screenshots of the main page, movie details page, and favorites page will be added here later.)
 
 ## Future Enhancements
 - Implement user authentication.
