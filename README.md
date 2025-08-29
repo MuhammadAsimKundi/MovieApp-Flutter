@@ -50,5 +50,5 @@ If you'd like to contribute, please fork the repository and submit a pull reques
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-Developed by M. Asim Kundi
+Developed by Muhammad Asim Kundi
 
