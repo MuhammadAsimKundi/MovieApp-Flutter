@@ -1,4 +1,4 @@
-# Movie App
+# Movie App:
 
 ## Overview
 The **Movie App** is a Flutter-based mobile application designed for browsing and managing a collection of movies. Built using **Flutter & Dart**, the app utilizes a **JSON dataset** for storing movie details. It runs in the **Android Studio** environment and provides an interactive user experience with multiple pages and a favorite movie feature.
